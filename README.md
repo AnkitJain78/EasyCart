@@ -20,6 +20,23 @@
 - Material Library
 
 ### Screenshots :
-| Home | Login | Register | Product Details | Product Details 2 | Cart | Setting | Profile | Save Address | Shipping Addresses
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| <img src="/Screenshots/Home Page.jpg"> | ![](/Screenshots/login.jpeg) | ![](/Screenshots/register.jpeg) | <img src="/Screenshots/Product Details.jpg"> | <img src="/Screenshots/Product Details 2.jpg"> | ![](/Screenshots/Cart.jpg) | ![](/Screenshots/Setting.jpg) | ![](/Screenshots/Profile.jpg) | <img src="/Screenshots/Save Adress.jpg"> | <img src="/Screenshots/Shipping Adresses.jpg"> |
+<table>
+  <tr>
+    <td><img src="/Screenshots/Home Page.jpg"></td>
+    <td><img src="/Screenshots/login.jpeg"</td>
+    <td><img src="/Screenshots/register.jpeg"</td>
+  </tr>
+   <tr>
+    <td><img src="/Screenshots/Product Details.jpg"></td>
+    <td><img src="/Screenshots/Product Details 2.jpg"></td>
+    <td><img src="/Screenshots/Cart.jpg"</td>
+  </tr>
+   <tr>
+    <td><img src="/Screenshots/Setting.jpg"</td>
+    <td><img src="/Screenshots/Profile.jpg"</td>
+    <td><img src="/Screenshots/Save Adress.jpg"></td>
+  </tr>
+  <tr>
+    <td><img src="/Screenshots/Shipping Adresses.jpg"></td>
+  </tr>
+</table>

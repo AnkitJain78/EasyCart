@@ -1,4 +1,4 @@
-# InkCanvas
+# EasyCart
 
 ### Features :
 #### 
